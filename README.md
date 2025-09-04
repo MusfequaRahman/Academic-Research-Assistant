@@ -1,5 +1,5 @@
 
-# 🔬 Academic Research Assistant
+# Academic Research Assistant
 
 A Python-based research assistant built using **CrewAI** that helps researchers, students, and academics search for relevant academic papers and generate comprehensive project proposals automatically.
 
