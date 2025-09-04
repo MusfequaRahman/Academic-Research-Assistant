@@ -5,8 +5,8 @@ A Python-based research assistant built using **CrewAI** that helps researchers,
 
 
 <img width="1476" height="695" alt="1" src="https://github.com/user-attachments/assets/cb4069e3-10d8-4d4d-b328-c5f4791da9be" />
-<img width="1251" height="225" alt="3" src="https://github.com/user-attachments/assets/3a6cc5dd-0558-4bd9-af30-6a22f0d1c686" />
 <img width="1371" height="895" alt="2" src="https://github.com/user-attachments/assets/9fe41156-565e-47b6-acfc-2a197451359c" />
+<img width="1251" height="225" alt="3" src="https://github.com/user-attachments/assets/3a6cc5dd-0558-4bd9-af30-6a22f0d1c686" />
 
 
 ## 📝 Features
